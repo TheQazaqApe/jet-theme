@@ -2,12 +2,13 @@
   "name": "jet-theme",
   "displayName": "Jet theme",
   "description": "Close to Jetbrains color schema",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "TheQazaqApe",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheQazaqApe/jet-theme.git"
   },
+  "icon": "./images/icon.png",
   "engines": {
     "vscode": "^1.87.0"
   },
