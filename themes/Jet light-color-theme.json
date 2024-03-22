@@ -329,6 +329,8 @@
     "method": "#7A7A43",
     "class": "#000000",
     "interface": "#000000",
+    "struct": "#000000",
+    "namespace": "#000000",
     "parameter": "#000000",
     "variable": "#248F8F",
     "property": "#871094",
