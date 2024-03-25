@@ -197,6 +197,7 @@
         "keyword",
         "keyword.operator.new",
         "keyword.operator.expression.of",
+        "keyword.operator.expression.in",
         "storage.type",
         "storage.modifier"
       ],
