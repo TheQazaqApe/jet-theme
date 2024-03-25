@@ -330,6 +330,7 @@
     "class": "#000000",
     "interface": "#000000",
     "struct": "#000000",
+    "enum": "#000000",
     "namespace": "#000000",
     "parameter": "#000000",
     "variable": "#248F8F",
