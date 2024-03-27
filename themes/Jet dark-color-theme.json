@@ -316,6 +316,24 @@
       "settings": {
         "foreground": "#D5B778"
       }
+    },
+    {
+      "name": "JS function",
+      "scope": [
+        "source.js meta.function-call entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#56A8F5",
+      }
+    },
+    {
+      "name": "TS function",
+      "scope": [
+        "source.ts meta.function-call entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#56A8F5",
+      }
     }
   ],
   "semanticTokenColors": {
