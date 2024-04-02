@@ -346,12 +346,16 @@
   "semanticTokenColors": {
     "function": "#7A7A43",
     "method": "#7A7A43",
+    "decorator": "#9E880D",
+    "attributeBracket": "#9E880D",
     "class": "#000000",
     "interface": "#000000",
     "struct": "#000000",
+    "typeAlias": "#000000",
     "enum": "#000000",
     "namespace": "#000000",
     "parameter": "#000000",
+    "operator": "#000000",
     "variable": "#248F8F",
     "property": "#871094",
     "enumMember": "#871094"
