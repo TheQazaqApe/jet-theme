@@ -27,6 +27,13 @@
         "uiTheme": "vs",
         "path": "./themes/Jet light-color-theme.json"
       }
+    ],
+    "grammars": [
+      {
+        "path": "./syntaxes/injection.json",
+        "scopeName": "todo-comment.injection",
+        "injectTo": ["source.js", "source.ts", "source.rs", "source.go"]
+      }
     ]
   }
 }

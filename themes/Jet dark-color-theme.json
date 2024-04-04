@@ -334,6 +334,15 @@
       "settings": {
         "foreground": "#56A8F5",
       }
+    },
+    {
+      "name": "TODO comment",
+      "scope": [
+        "comment.todo"
+      ],
+      "settings": {
+        "foreground": "#8BB33D",
+      }
     }
   ],
   "semanticTokenColors": {
@@ -351,7 +360,9 @@
     "operator": "#BCBEC4",
     "variable": "#A9B7C6",
     "property": "#C77DBB",
-    "enumMember": "#C77DBB"
+    "enumMember": "#C77DBB",
+    "regexp": "#42C3D3",
+    "string": "#6AAB73"
   },
   "semanticHighlighting": true
 }
