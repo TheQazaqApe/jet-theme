@@ -2,7 +2,7 @@
   "name": "jet-theme",
   "displayName": "Jet theme",
   "description": "Close to Jetbrains color schema",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "TheQazaqApe",
   "repository": {
     "type": "git",
@@ -32,7 +32,12 @@
       {
         "path": "./syntaxes/injection.json",
         "scopeName": "todo-comment.injection",
-        "injectTo": ["source.js", "source.ts", "source.rs", "source.go"]
+        "injectTo": [
+          "source.js",
+          "source.ts",
+          "source.rs",
+          "source.go"
+        ]
       }
     ]
   }
