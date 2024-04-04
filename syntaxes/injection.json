@@ -8,7 +8,7 @@
   ],
   "repository": {
     "todo-comment": {
-      "match": "TODO",
+      "match": "(?i:\\bTODO\\b)",
       "name": "comment.todo"
     }
   }
