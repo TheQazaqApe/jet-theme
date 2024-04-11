@@ -3,13 +3,8 @@
   "injectionSelector": "L:comment.line.double-slash",
   "patterns": [
     {
-      "include": "#todo-comment"
-    }
-  ],
-  "repository": {
-    "todo-comment": {
       "match": "(?i:\\bTODO\\b)",
       "name": "comment.todo"
     }
-  }
+  ]
 }

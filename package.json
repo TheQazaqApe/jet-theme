@@ -1,14 +1,24 @@
 {
   "name": "jet-theme",
   "displayName": "Jet theme",
-  "description": "Close to Jetbrains color schema",
+  "description": "Unofficial close to Jetbrains' color schema",
   "version": "0.0.9",
   "publisher": "TheQazaqApe",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheQazaqApe/jet-theme.git"
   },
   "icon": "./images/icon.png",
+  "keywords": [
+    "dark",
+    "dark modern",
+    "light",
+    "light modern",
+    "jet",
+    "minimalistic",
+    "semantic"
+  ],
   "engines": {
     "vscode": "^1.87.0"
   },
