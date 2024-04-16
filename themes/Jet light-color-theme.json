@@ -295,7 +295,7 @@
       "name": "Decorators",
       "scope": ["punctuation.decorator"],
       "settings": {
-        "foreground": "#7A7A43"
+        "foreground": "#914C07"
       }
     },
     {
@@ -330,7 +330,7 @@
         "source.js meta.function-call entity.name.function"
       ],
       "settings": {
-        "foreground": "#7A7A43",
+        "foreground": "#914C07",
       }
     },
     {
@@ -339,7 +339,7 @@
         "source.ts meta.function-call entity.name.function"
       ],
       "settings": {
-        "foreground": "#7A7A43",
+        "foreground": "#914C07",
       }
     },
     {
@@ -353,8 +353,8 @@
     }
   ],
   "semanticTokenColors": {
-    "function": "#7A7A43",
-    "method": "#7A7A43",
+    "function": "#914C07",
+    "method": "#914C07",
     "decorator": "#9E880D",
     "attributeBracket": "#9E880D",
     "class": "#000000",
@@ -365,7 +365,7 @@
     "namespace": "#000000",
     "parameter": "#000000",
     "operator": "#000000",
-    "variable": "#248F8F",
+    "variable": "#2A8C7C",
     "property": "#871094",
     "enumMember": "#871094",
     "regexp": "#264EFF",
